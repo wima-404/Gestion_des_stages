@@ -8,6 +8,7 @@ ensuite d’automatiser l’archivage des fichiers (page de garde, rapport) en p
 modifier les informations de leurs rapports, et la recherche se fait à travers plusieurs critères [titre du sujet, nom d'encadrant, niveau, année, sujet d'un stage ou non]
 l'encadrant a la possibilité de visualiser ses groupes qui lui associé et leurs niveaux.
 
-I - Diagramme de cas d'utilsations :
-![Capture d'écran 2025-05-24 130549](https://github.com/user-attachments/assets/71251527-3c74-42cc-9917-8c3c8d66f15d)
+I - Diagramme de classe :
+
+![Capture d'écran 2025-05-28 135356](https://github.com/user-attachments/assets/fa328ced-2808-47fa-82c2-0681eb6efbc5)
 
