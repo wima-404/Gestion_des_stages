@@ -12,3 +12,6 @@ I - Diagramme de classe :
 
 ![Capture d'écran 2025-05-28 135356](https://github.com/user-attachments/assets/fa328ced-2808-47fa-82c2-0681eb6efbc5)
 
+II - Diagramme de cas d'utilisation :
+
+![Capture d'écran 2025-05-28 154505](https://github.com/user-attachments/assets/84cfeb36-82c8-4082-b9c3-7db2719f4249)
