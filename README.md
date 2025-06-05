@@ -15,3 +15,10 @@ I - Diagramme de classe :
 II - Diagramme de cas d'utilisation :
 
 ![Capture d'écran 2025-05-28 154505](https://github.com/user-attachments/assets/84cfeb36-82c8-4082-b9c3-7db2719f4249)
+
+III - Diagramme de séquance :
+![Capture d'écran 2025-05-28 113612](https://github.com/user-attachments/assets/177fff0f-4276-4218-8cbf-01f0ce8f403d)
+
+
+
+
