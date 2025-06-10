@@ -14,7 +14,8 @@ I - Diagramme de classe :
 
 II - Diagramme de cas d'utilisation :
 
-![Capture d'écran 2025-05-28 154505](https://github.com/user-attachments/assets/84cfeb36-82c8-4082-b9c3-7db2719f4249)
+![Capture d'écran 2025-06-10 161137](https://github.com/user-attachments/assets/f368961d-1d48-4ee8-96ed-ab66a3cbe002)
+
 
 III - Diagramme de séquance :
 
