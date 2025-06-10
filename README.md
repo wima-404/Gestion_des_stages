@@ -17,7 +17,12 @@ II - Diagramme de cas d'utilisation :
 ![Capture d'écran 2025-05-28 154505](https://github.com/user-attachments/assets/84cfeb36-82c8-4082-b9c3-7db2719f4249)
 
 III - Diagramme de séquance :
-![Capture d'écran 2025-05-28 113612](https://github.com/user-attachments/assets/177fff0f-4276-4218-8cbf-01f0ce8f403d)
+![Capture d'écran 2025-06-10 153722](https://github.com/user-attachments/assets/49452a16-dffe-4f29-98cc-5a92f523c141)
+![Capture d'écran 2025-06-10 153906](https://github.com/user-attachments/assets/5338593d-d0a2-4cea-831c-cf95d8c63c36)
+![Capture d'écran 2025-06-10 154620](https://github.com/user-attachments/assets/f9babcf1-3a23-49aa-b2dd-302935407ba7)
+
+
+
 
 
 
